@@ -12,6 +12,30 @@
 Change Log
 
 
+2021/11/30 #1 : 2021/12/09
+
+
+BUGFIX
+
+
+	Nonnon Paint
+		Multi-Layer : Save after swapped
+			OLD : data will be broken
+			NEW : fixed
+			[!] : half memory consumption causes
+			[x] : NEW_FEATURE @ 2021/11/30
+		Multi-Layer : "Add A New Layer"
+			OLD : access violation
+			NEW : fixed
+			[x] : NEW_FEATURE @ 2021/11/30
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2021/11/30
 
 
