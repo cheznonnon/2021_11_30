@@ -12,6 +12,25 @@
 Change Log
 
 
+2021/11/30 #3 : 2021/12/13
+
+
+BUGFIX
+
+
+	Nonnon Paint
+		Multi-Layer : Menu : save after Thin/Thicken Lines
+			OLD : not saved
+			NEW : fixed
+			[x] : NEW_FEATURE @ 2021/11/30
+
+
+----------==========----------==========----------==========----------
+
+
+Change Log
+
+
 2021/11/30 #2 : 2021/12/12
 
 
